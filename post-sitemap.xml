@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>jiangjyjy.github.io/just-a-test.html</loc>
+        <lastmod>2019-11-07T11:12:36.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>jiangjyjy.github.io/hello-world.html</loc>
         <lastmod>2017-10-26T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
